@@ -1,5 +1,6 @@
 window.CUFFI_CONFIG = {
   SUPABASE_URL: "https://uphonfhibegcrufdquou.supabase.co",
+
   SUPABASE_ANON_KEY: "sb_publishable_0lXg4tDFl6NpXhIV81YvLg_sTwBK4EY",
 
   SITE_URL: "https://gezimtahiri26-commits.github.io/cuffi-tracking",
