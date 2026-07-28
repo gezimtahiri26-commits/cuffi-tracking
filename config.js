@@ -1,5 +1,5 @@
 window.CUFFI_CONFIG = {
-  SUPABASE_URL: "https://uphonfhibegrcufdquou.supabase.co/rest/v1/",
+  SUPABASE_URL: "https://uphonfhibegrcufdquou.supabase.co",
 
   SUPABASE_ANON_KEY: "sb_publishable_0lXg4tDFl6NpXhIV81YvLg_sTwBK4EY",
 
