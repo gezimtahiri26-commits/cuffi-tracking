@@ -4,12 +4,10 @@
 // Publishable/anon key lejohet në browser vetëm kur RLS është aktiv.
 // ================================================================
 window.CUFFI_CONFIG = {
-  SUPABASE_URL: "https://uphonfhibegcrufdquou.supabase.co",
-  SUPABASE_ANON_KEY: sb_publishable_0lXg4tDFl6NpXhIV81YvLg_sTwBK4EY
+SUPABASE_URL: "https://uphonfhibegcrufdquou.supabase.co",
+SUPABASE_ANON_KEY: "sb_publishable_0lXg4tDFl6NpXhIV81YvLg_sTwBK4EY",
 
-  // Pas publikimit në GitHub Pages vendos adresën pa / në fund.
-  // Shembull: https://emriyt.github.io/cuffi-tracking
-  SITE_URL: "https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPOSITORY",
+SITE_URL: "https://gezimtahiri26-commits.github.io/cuffi-tracking",
 
   COMPANY_NAME: "CUFFI CREATES",
   WHATSAPP_NUMBER: null,
