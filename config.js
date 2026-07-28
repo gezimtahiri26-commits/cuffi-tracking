@@ -5,7 +5,7 @@
 // ================================================================
 window.CUFFI_CONFIG = {
   SUPABASE_URL: "https://uphonfhibegcrufdquou.supabase.co",
-  SUPABASE_ANON_KEY: "sb_publishable_........................",
+  SUPABASE_ANON_KEY: sb_publishable_0lXg4tDFl6NpXhIV81YvLg_sTwBK4EY
 
   // Pas publikimit në GitHub Pages vendos adresën pa / në fund.
   // Shembull: https://emriyt.github.io/cuffi-tracking
